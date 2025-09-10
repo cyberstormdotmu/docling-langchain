@@ -1,3 +1,9 @@
+## [v1.1.0](https://github.com/docling-project/docling-langchain/releases/tag/v1.1.0) - 2025-09-10
+
+### Feature
+
+* Picture description via langchain llm ([#22](https://github.com/docling-project/docling-langchain/issues/22)) ([`6dd20b8`](https://github.com/docling-project/docling-langchain/commit/6dd20b827beef36c34dbc8bc3370d38c8b20a07f))
+
 ## [v1.0.0](https://github.com/docling-project/docling-langchain/releases/tag/v1.0.0) - 2025-06-10
 
 ### Feature
