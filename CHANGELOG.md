@@ -1,3 +1,13 @@
+## [v2.0.0](https://github.com/docling-project/docling-langchain/releases/tag/v2.0.0) - 2025-11-17
+
+### Feature
+
+* Upgrade to langchain v1 ([#25](https://github.com/docling-project/docling-langchain/issues/25)) ([`d0385de`](https://github.com/docling-project/docling-langchain/commit/d0385de301aa781ca7834ca9f3ee2120ee3cae76))
+
+### Breaking
+
+* upgrade to langchain v1 ([#25](https://github.com/docling-project/docling-langchain/issues/25)) ([`d0385de`](https://github.com/docling-project/docling-langchain/commit/d0385de301aa781ca7834ca9f3ee2120ee3cae76))
+
 ## [v1.1.0](https://github.com/docling-project/docling-langchain/releases/tag/v1.1.0) - 2025-09-10
 
 ### Feature
